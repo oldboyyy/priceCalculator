@@ -1,0 +1,5 @@
+[
+  { "region_text": "Алмалинский район", "avg_price": 50000000, "avg_price_per_m2": 700000, "count": 1500 },
+  { "region_text": "Бостандыкский район", "avg_price": 60000000, "avg_price_per_m2": 750000, "count": 1800 },
+  { "region_text": "Ауэзовский район", "avg_price": 40000000, "avg_price_per_m2": 600000, "count": 2000 }
+]
